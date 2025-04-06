@@ -1,0 +1,14 @@
+payload:
+- DOMAIN,au.download.windowsupdate.com
+- DOMAIN,au.v4.download.windowsupdate.com
+- DOMAIN,ctldl.windowsupdate.com
+- DOMAIN,dl.delivery.mp.microsoft.com
+- DOMAIN,download.microsoft.com
+- DOMAIN,download.windowsupdate.com
+- DOMAIN,ds.download.windowsupdate.com
+- DOMAIN,fg.ds.b1.download.windowsupdate.com
+- DOMAIN,fg.v4.download.windowsupdate.com
+- DOMAIN,msedge.b.tlu.dl.delivery.mp.microsoft.com
+- DOMAIN,tlu.dl.delivery.mp.microsoft.com
+- DOMAIN,v4.download.windowsupdate.com
+- DOMAIN,www.download.windowsupdate.com

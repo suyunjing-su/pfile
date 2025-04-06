@@ -1,0 +1,23 @@
+payload:
+- DOMAIN,au.download.windowsupdate.com
+- DOMAIN,au.v4.download.windowsupdate.com
+- DOMAIN,ctldl.windowsupdate.com
+- DOMAIN,dl.delivery.mp.microsoft.com
+- DOMAIN,download.microsoft.com
+- DOMAIN,download.windowsupdate.com
+- DOMAIN,ds.download.windowsupdate.com
+- DOMAIN,fg.ds.b1.download.windowsupdate.com
+- DOMAIN,fg.v4.download.windowsupdate.com
+- DOMAIN,msedge.b.tlu.dl.delivery.mp.microsoft.com
+- DOMAIN,tlu.dl.delivery.mp.microsoft.com
+- DOMAIN,v4.download.windowsupdate.com
+- DOMAIN,www.download.windowsupdate.com
+- DOMAIN,outlook-1.cdn.office.net
+- DOMAIN,s0.2mdn.net
+- DOMAIN,static.2mdn.net
+- DOMAIN,statics.teams.cdn.office.net
+- DOMAIN,uci.cdn.office.net
+- DOMAIN,wscont2.apps.microsoft.com
+- DOMAIN,wscont1.apps.microsoft.com
+- DOMAIN,officecdn.microsoft.com
+- DOMAIN,officecdn.microsoft.com.edgesuite.net
