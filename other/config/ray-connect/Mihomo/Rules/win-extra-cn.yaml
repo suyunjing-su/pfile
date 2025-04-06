@@ -1,4 +1,5 @@
 payload:
+- DOMAIN,software.download.prss.microsoft.com
 - DOMAIN,outlook-1.cdn.office.net
 - DOMAIN,s0.2mdn.net
 - DOMAIN,static.2mdn.net
