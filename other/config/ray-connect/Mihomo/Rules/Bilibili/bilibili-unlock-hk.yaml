@@ -1,5 +1,5 @@
 payload:
-- DOMAIN,api.bilibili.com
+- DOMAIN,www.bilibili.com
 - DOMAIN,api.bilibili.com
 - DOMAIN,bangumi.bilibili.com
 - DOMAIN-SUFFIX,biliapi.net
