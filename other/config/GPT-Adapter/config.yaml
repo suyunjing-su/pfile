@@ -1,0 +1,24 @@
+server:
+  port: 7860
+  no-usage: true
+  think_reason: true
+qodo:
+  key: AIzaSyCMMynYm5VRHj1NOwkfWinX-HYsFArdUbk
+
+lmsys:
+  token: '[ 119, 159 ]'
+  model:
+    - 'deepseek-v3-0324'
+    - 'deepseek-r1'
+    - 'claude-3-5-sonnet-20241022'
+    - 'claude-3-7-sonnet-20250219'
+    - 'claude-3-7-sonnet-20250219-thinking-32k'
+    - 'chatgpt-4o-latest-20250326'
+    - 'gpt-4o-2024-11-20'
+    - 'gpt-4o-mini-2024-07-18'
+    - 'gpt-4.1-2025-04-14'
+    - 'gpt-4.1-mini-2025-04-14'
+    - 'o3-2025-04-16'
+    - 'o3-mini'
+    - 'o4-mini-2025-04-16'
+    - 'grok-3-preview-02-24'
